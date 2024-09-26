@@ -9,6 +9,6 @@
 * Ivan De la Fuente Varona
 
 **3. Equipo 3:**
-* Edward Regueros Amaquin
-* Jorge Cumplido Alegre
-* 
+* Adrian Arroyo Pernudo
+* Joshua Bocanegra Villafane
+* Alexander Trinidad Batista
